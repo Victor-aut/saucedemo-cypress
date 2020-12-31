@@ -1,0 +1,14 @@
+{
+  "name": "sauce_demo",
+  "version": "1.0.0",
+  "description": "automation practice using  sauce demo page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Cisneros",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.0"
+  }
+}

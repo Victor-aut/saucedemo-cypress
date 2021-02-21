@@ -1,7 +1,7 @@
 # saucedemo-cypress
 Demo of a purchase using the cypress framework and Page Object Pattern.
 
-Test website: https://www.saucedemo.com
+Test web page: https://www.saucedemo.com
 
 Install node dependencies: npm install
 
